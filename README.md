@@ -7,7 +7,7 @@ William Acosta
 * www.linkedin.com/in/wacosta86
 
 ### Visualización
-- https://wacosta86.github.io/frontendstore/index.html
+- https://wacosta86.github.io/frontendstore/
 
 ### Instalación
 Este proyecto no necesita instalación, simplemente abrir el archivo index.html
